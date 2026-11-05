@@ -2,7 +2,7 @@
 ## Title: KJV_Bible
 ## Author: @eyuzwa
 ## Notes: Shows verses from the King James Bible in a small movable panel.
-## Version: 2.0.0
+## Version: 0.8.0
 ## SavedVariables: KJV_BIBLE_DB
 
 Bible.lua
