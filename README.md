@@ -1,5 +1,7 @@
 # KJV_Bible
 
+![KJV Bible Addon](./images/KJV_Bible_Addon_Logo_256.png "KJV Bible Addon")
+
 A small, movable panel that shows verses from the King James Bible.
 Includes the complete KJV text (66 books, 31,102 verses).
 
