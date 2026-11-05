@@ -1,0 +1,76 @@
+## Interface: 16001
+## Title: KJV_Bible
+## Author: @eyuzwa
+## Notes: Shows verses from the King James Bible in a small movable panel.
+## Version: 2.0.0
+## SavedVariables: KJV_BIBLE_DB
+
+Bible.lua
+Bible\01_Genesis.lua
+Bible\02_Exodus.lua
+Bible\03_Leviticus.lua
+Bible\04_Numbers.lua
+Bible\05_Deuteronomy.lua
+Bible\06_Joshua.lua
+Bible\07_Judges.lua
+Bible\08_Ruth.lua
+Bible\09_1Samuel.lua
+Bible\10_2Samuel.lua
+Bible\11_1Kings.lua
+Bible\12_2Kings.lua
+Bible\13_1Chronicles.lua
+Bible\14_2Chronicles.lua
+Bible\15_Ezra.lua
+Bible\16_Nehemiah.lua
+Bible\17_Esther.lua
+Bible\18_Job.lua
+Bible\19_Psalms.lua
+Bible\20_Proverbs.lua
+Bible\21_Ecclesiastes.lua
+Bible\22_SongofSolomon.lua
+Bible\23_Isaiah.lua
+Bible\24_Jeremiah.lua
+Bible\25_Lamentations.lua
+Bible\26_Ezekiel.lua
+Bible\27_Daniel.lua
+Bible\28_Hosea.lua
+Bible\29_Joel.lua
+Bible\30_Amos.lua
+Bible\31_Obadiah.lua
+Bible\32_Jonah.lua
+Bible\33_Micah.lua
+Bible\34_Nahum.lua
+Bible\35_Habakkuk.lua
+Bible\36_Zephaniah.lua
+Bible\37_Haggai.lua
+Bible\38_Zechariah.lua
+Bible\39_Malachi.lua
+Bible\40_Matthew.lua
+Bible\41_Mark.lua
+Bible\42_Luke.lua
+Bible\43_John.lua
+Bible\44_Acts.lua
+Bible\45_Romans.lua
+Bible\46_1Corinthians.lua
+Bible\47_2Corinthians.lua
+Bible\48_Galatians.lua
+Bible\49_Ephesians.lua
+Bible\50_Philippians.lua
+Bible\51_Colossians.lua
+Bible\52_1Thessalonians.lua
+Bible\53_2Thessalonians.lua
+Bible\54_1Timothy.lua
+Bible\55_2Timothy.lua
+Bible\56_Titus.lua
+Bible\57_Philemon.lua
+Bible\58_Hebrews.lua
+Bible\59_James.lua
+Bible\60_1Peter.lua
+Bible\61_2Peter.lua
+Bible\62_1John.lua
+Bible\63_2John.lua
+Bible\64_3John.lua
+Bible\65_Jude.lua
+Bible\66_Revelation.lua
+Verses.lua
+Core.lua
